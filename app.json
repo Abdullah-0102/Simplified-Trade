@@ -2,6 +2,17 @@
   "expo": {
     "name": "SimplifiedTrade",
     "slug": "SimplifiedTrade",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "de9879ae-d67b-495e-ba8d-88440e51c9f5"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/de9879ae-d67b-495e-ba8d-88440e51c9f5"
+    },
+    "android": {},
+    "ios": {}
   }
 }
